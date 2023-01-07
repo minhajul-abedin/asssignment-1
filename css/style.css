@@ -1,0 +1,205 @@
+* {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header Design */
+
+header {
+    background-image: url(../images/banner/banner1.png);
+    background-size: cover;
+    height: 808px;
+    width: 1600px;
+}
+
+.nav-title {
+    text-align: right;
+    padding: 200px 200px 0px 50px;
+
+}
+
+.nav-title-text {
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #000000;
+}
+
+.nav-sub-title {
+    margin-top: 20px;
+    padding-bottom: 8px;
+    color: #000000;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.contact-us-button {
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    width: 160px;
+    height: 64px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: none;
+}
+
+/* Main Body Design */
+
+.imageabout {
+    display: flex;
+    align-items: center;
+    margin: 110px 180px 0px 150px;
+}
+
+.image-about-title {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.image-titel {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    padding-bottom: 10px;
+
+}
+
+.image-titel-peragraph {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    text-align: left;
+    padding-bottom: 5px;
+}
+
+#previous-year {
+    margin-bottom: 25px;
+}
+
+#previous-year-p {
+    margin-bottom: 25px;
+}
+
+li {
+    padding-bottom: 8px;
+    color: #444343;
+}
+
+
+
+.myplan-titel {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 120px 0px 50px 0px;
+
+}
+
+.myplan-item {
+    margin: 0px 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+.plan-details {
+    margin-left: 30px;
+}
+
+.my-promise {
+    font-weight: 700;
+    font-size: 20px;
+    color: #151414;
+    padding: 10px 0px;
+}
+
+
+.my-promise-p {
+    font-weight: 500;
+    font-size: 15px;
+    color: #737272;
+}
+
+
+.bottom-cover {
+    background-image: url(../images/bannar.jpg);
+    height: 300px;
+    width: 1140px;
+    margin: 70px 230px;
+
+}
+
+.bottom-covar-item {
+    padding-top: 60px;
+    padding-left: 64px;
+    color: white;
+    font-weight: 700;
+}
+
+
+
+footer {
+    background-color: #151414;
+    width: 1600px;
+    height: 577px;
+    position: absolute;
+
+}
+
+.footer-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 150px 300px 130px 100px;
+}
+
+.footer-heding {
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.footer-paragraph {
+
+    color: #FFFFFF;
+    text-align: left;
+}
+
+#email {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+#email-input{
+    border: 1px solid white;
+    height: 64px;
+    width: 364px;
+    font-size: 20px;
+    background-color: #151414;
+    color: white;
+}
+
+.subscribe-footer-btn {
+    background: #005FAC;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    width: 160px;
+    height: 64px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: none;
+}
