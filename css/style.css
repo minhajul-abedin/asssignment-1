@@ -37,9 +37,10 @@ header {
 }
 
 .contact-us-button {
+    background: #000;
     font-weight: 600;
     font-size: 20px;
-    color: #005FAC;
+    color: #ffffff;
     width: 160px;
     height: 64px;
     border-radius: 10px;
